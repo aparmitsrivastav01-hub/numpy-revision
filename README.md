@@ -14,3 +14,7 @@ This repository contains my NumPy learning notes and practice.
 
 ## Goal
 To build strong fundamentals for Data Science & ML.
+
+## Mindmap Preview
+
+![NumPy Mindmap](numpypage.png)
